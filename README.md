@@ -2,7 +2,19 @@
 Repositório de design patterns relacionados a Cloud, Big Data, SOA e OO.
 
 ## Cloud
-- em breve
+- Arquitetura
+- Melhores práticas
+- Princípios de arquitetura
+- Checklists
+- Anti-patterns
+- Patterns
+  - Disponibilidade
+  - Gestão e Monitoramento
+  - Gestão de Dados
+  - Mensageria
+  - Performance e Escalabilidade
+  - Resiliência
+  - Segurança
 
 ## Big Data
 - em breve
