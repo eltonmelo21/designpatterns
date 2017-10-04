@@ -1,14 +1,17 @@
 # Design patterns
-Repositório de design patterns relacioandos a Cloud, SOA e OO
+Repositório de design patterns relacionados a Cloud, Big Data, SOA e OO.
 
 ## Cloud
-- Em breve
+- em breve
+
+## Big Data
+- em breve
 
 ## SOA
-- Em breve
+- em breve
 
 ## Object Orientation
-- Em breve
+- em breve
 
 ## Refererências
 - Em breve
