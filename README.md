@@ -26,7 +26,7 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 ## SOA
 - Capacidades
 - Composição
-- Emcapsulamento
+- Encapsulamento
 - Governança
 - Inventório
 - Mensageria
