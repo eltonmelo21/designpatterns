@@ -1,32 +1,49 @@
-# Design patterns
+# Design Patterns
 Repositório de design patterns relacionados a Cloud, Big Data, SOA e OO.
 
 ## Cloud
-- Arquitetura
-- Melhores práticas
-- Princípios de arquitetura
-- Checklists
-- Anti-patterns
-- Patterns
-  - Disponibilidade
-  - Gestão e Monitoramento
-  - Gestão de Dados
-  - Mensageria
-  - Performance e Escalabilidade
-  - Resiliência
-  - Segurança
+- Visão geral
+  - Arquitetura
+  - Mecanismos
+  - Melhores práticas
+  - Princípios
+  - Checklists
+  - Anti-patterns
+- Disponibilidade
+- Gestão e monitoramento (Monitoring, Provisioning and Administration)
+- Gestão de dados (Data Management and Storage Device)
+- Mensageria
+- Performance e escalabilidade (Sharing, Scaling and Elasticity)
+- Resiliência (Reliability, Resiliency and Recovery)
+- Segurança (Cloud Service and Storage Security; Network Security, Identity & Access Management and Trust Assurance)
+- Servidores virtuais (Virtual Server and Hypervisor Connectivity and Management)
 
 ## Big Data
-- em breve
+- Mecanismos
+- Padrões de projeto
+- Padrões compotos
 
 ## SOA
-- em breve
+- Capacidades
+- Composição
+- Emcapsulamento
+- Governança
+- Inventório
+- Mensageria
+- REST
+- Segurança
+- Serviço
+- Transformação
+- Padrões compostos
 
 ## Object Orientation
-- em breve
+- Comportamentais
+- Criacionais
+- Estruturais
 
 ## Refererências
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
 - <a href="http://www.bigdatapatterns.org">Big Data Patterns</a>
 - <a href="http://www.cloudpatterns.org">Cloud Patterns</a>
 - <a href="http://www.soapatterns.org">SOA Patterns</a>
+- <a href="https://sourcemaking.com">Source Making</a>
