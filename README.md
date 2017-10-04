@@ -42,9 +42,9 @@ Repositório de design patterns relacionados a computação em nuvem, <i>big dat
 - Estruturais
 
 ## Bibliografia
-- <a href="https://www.amazon.com.br/Big-Data-Fundamentals-Techniques-Technology-ebook/dp/B019YLYLVY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=">Big Data Fundamentals</a>
-- <a href="https://www.amazon.com.br/Computing-Patterns-Prentice-Service-Technology-ebook/dp/B00YF0ORCS">Cloud Computing Design Patterns</a>
-- <a href="https://www.amazon.com.br/Design-Patterns-Prentice-Service-Technology-ebook/dp/B00139VU0Q">SOA Design Patterns</a>
+- <a href="https://www.amazon.com.br/Big-Data-Fundamentals-Techniques-Technology-ebook/dp/B019YLYLVY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=">Big Data Fundamentals</a> (Thomas, Wajid Khattak, Paul Buhler)
+- <a href="https://www.amazon.com.br/Computing-Patterns-Prentice-Service-Technology-ebook/dp/B00YF0ORCS">Cloud Computing Design Patterns</a> (Thomas Erl, Robert Cope, Amin Naserpour)
+- <a href="https://www.amazon.com.br/Design-Patterns-Prentice-Service-Technology-ebook/dp/B00139VU0Q">SOA Design Patterns</a> (Thomas Erl)
 
 ## Refererências
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
