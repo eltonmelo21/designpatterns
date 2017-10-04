@@ -21,7 +21,7 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 ## Big Data
 - Mecanismos
 - Padrões de projeto
-- Padrões compotos
+- Padrões compostos
 
 ## SOA
 - Capacidades
