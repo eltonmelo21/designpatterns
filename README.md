@@ -55,5 +55,6 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
 - <a href="http://www.bigdatapatterns.org">Big Data Patterns</a>
 - <a href="http://www.cloudpatterns.org">Cloud Patterns</a>
+- <a href="http://www.serviceorientation.com">Service Orientation</a>
 - <a href="http://www.soapatterns.org">SOA Patterns</a>
-- <a href="https://sourcemaking.com">Source Making</a>
+- <a href="https://www.sourcemaking.com">Source Making</a>
