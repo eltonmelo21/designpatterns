@@ -69,6 +69,16 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - Desenvolvimento
 - Gestão de projetos
 
+## Refererências
+- <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
+- <a href="http://www.bigdatapatterns.org">Big Data Patterns</a>
+- <a href="http://www.cloudpatterns.org">Cloud Patterns</a>
+- <a href="http://www.enterpriseintegrationpatterns.com/patterns/conversation/">Conversation Patterns</a>
+- <a href="http://www.enterpriseintegrationpatterns.com/patterns/messaging/">Messaging Patterns</a>
+- <a href="http://www.serviceorientation.com">Service Orientation</a>
+- <a href="http://www.soapatterns.org">SOA Patterns</a>
+- <a href="https://www.sourcemaking.com">Source Making</a>
+
 ## Bibliografia
 - <a href="https://www.amazon.com.br/Big-Data-Fundamentals-Techniques-Technology-ebook/dp/B019YLYLVY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=">Big Data Fundamentals</a> (Thomas Erl, Wajid Khattak, Paul Buhler)
 - <a href="https://www.amazon.com.br/dp/B00T3N7XB4/_encoding=UTF8?coliid=I5T2PFMJY3TWV&colid=1YI1AXD9XD8UF">Building Microservices</a> (Sam Newman) 
@@ -82,13 +92,3 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - <a href="https://www.amazon.com.br/Design-Patterns-Prentice-Service-Technology-ebook/dp/B00139VU0Q">SOA Design Patterns</a> (Thomas Erl)
 - <a href="https://www.amazon.com.br/dp/B008TVLSFI/_encoding=UTF8?coliid=I1YA8NZLX9OJK&colid=1YI1AXD9XD8UF">SOA with REST</a> (Thomas Erl, Benjamin Carlyle, Cesare Pautasso, Raj Balasubramanian)
 - <a href="https://www.amazon.com.br/dp/B004XVIWVG/_encoding=UTF8?coliid=IFIN20YTI8CQ3&colid=1YI1AXD9XD8UF">Web Service Contract Design and Versioning for SOA</a> (Thomas Erl, Anish Karmarkar, Priscilla Walmsley, Hugo Haas, David Umit Orchard, Kevin Liu, Umit Yalcinalp, Andre Tost, James Pasley)
-
-## Refererências
-- <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
-- <a href="http://www.bigdatapatterns.org">Big Data Patterns</a>
-- <a href="http://www.cloudpatterns.org">Cloud Patterns</a>
-- <a href="http://www.enterpriseintegrationpatterns.com/patterns/conversation/">Conversation Patterns</a>
-- <a href="http://www.enterpriseintegrationpatterns.com/patterns/messaging/">Messaging Patterns</a>
-- <a href="http://www.serviceorientation.com">Service Orientation</a>
-- <a href="http://www.soapatterns.org">SOA Patterns</a>
-- <a href="https://www.sourcemaking.com">Source Making</a>
