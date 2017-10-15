@@ -1,5 +1,5 @@
 # Design Patterns
-Repositório de padrões de projeto para computação em nuvem, <i>big data</i>, orientação a serviços e orientação a objetos.
+Repositório de padrões de projeto para computação em nuvem, <i>big data</i>, orientação a serviços, mensageria, conversação e orientação a objetos.
 
 ## Cloud Computing
 - Visão geral
