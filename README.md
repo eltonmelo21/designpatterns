@@ -35,6 +35,29 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - Transformação
 - Padrões compostos
 
+## Mensageria
+- Visão geral
+- Estilos
+- Sistemas
+- Endpoints
+- Construção
+- Canais
+- Roteamento
+- Transformação
+- Gestão
+- Mensageria simples
+- Mensageria composta
+
+## Conversação
+- Visão geral
+- Coreografia
+- Orquestração
+- Descoberta
+- Iniciando uma conversa
+- Conversas básicas
+- Intermediários
+- Gestão
+
 ## Object Orientation
 - Comportamentais
 - Criacionais
