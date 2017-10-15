@@ -58,7 +58,7 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - Intermediários
 - Gestão
 
-## Object Orientation
+## Orientação a Objetos
 - Comportamentais
 - Criacionais
 - Estruturais
