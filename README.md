@@ -72,6 +72,7 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 ## Refererências
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
 - <a href="http://www.bigdatapatterns.org">Big Data Patterns</a>
+- <a href="http://www.cloudcomputingpatterns.org">Cloud Computing Patterns</a>
 - <a href="http://www.cloudpatterns.org">Cloud Patterns</a>
 - <a href="http://www.enterpriseintegrationpatterns.com/patterns/conversation/">Conversation Patterns</a>
 - <a href="http://www.enterpriseintegrationpatterns.com/patterns/messaging/">Messaging Patterns</a>
