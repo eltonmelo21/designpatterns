@@ -73,7 +73,7 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - <a href="https://patterns.arcitura.com">Arciture Education Patterns</a>
 - <a href="https://patterns.arcitura.com/artificial-intelligence-ai-patterns-neurons-and-neural-networks">Artificial Intelligence Patterns</a>
 - <a href="https://patterns.arcitura.com/big-data-patterns">Big Data Patterns</a>
-- <a href="https://patterns.arcitura.com/blockchain-patterns">>Blockchain Patterns</a>
+- <a href="https://patterns.arcitura.com/blockchain-patterns">Blockchain Patterns</a>
 - <a href="https://patterns.arcitura.com/cloud-computing-patterns>Cloud Computing Patterns</a>
 - <a href="https://patterns.arcitura.com/containerization-patterns">Containerization Patterns</a>
 - <a href="https://patterns.arcitura.com/devops-metrics-mechanisms-tools">DevOps Mechanisms</a>
