@@ -74,7 +74,7 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - <a href="https://patterns.arcitura.com/artificial-intelligence-ai-patterns-neurons-and-neural-networks">Artificial Intelligence Patterns</a>
 - <a href="https://patterns.arcitura.com/big-data-patterns">Big Data Patterns</a>
 - <a href="https://patterns.arcitura.com/blockchain-patterns">Blockchain Patterns</a>
-- <a href="https://patterns.arcitura.com/cloud-computing-patterns>Cloud Computing Patterns</a>
+- <a href="https://patterns.arcitura.com/cloud-computing-patterns">Cloud Computing Patterns</a>
 - <a href="https://patterns.arcitura.com/containerization-patterns">Containerization Patterns</a>
 - <a href="https://patterns.arcitura.com/devops-metrics-mechanisms-tools">DevOps Mechanisms</a>
 - <a href="https://patterns.arcitura.com/internet-of-things-iot-patterns">Internet of Things Patterns</a>
@@ -95,8 +95,11 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - <a href="Apache Kafka and Stream Processing O’Reilly Book Bundle">Apache Kafka and Stream Processing O’Reilly Book Bundle</a>
 - <a href="https://microservices.io/platform/microservice-architecture-assessment.html">Applying the microservice architecture pattern language</a>
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
+- <a href="https://martinfowler.com/eaaCatalog/">Catalog of Patterns of Enterprise Application Architecture</a>
 - <a href="https://www.cloudcomputingpatterns.org">Cloud Computing Patterns</a>
+- <a href="https://landscape.cncf.io/">CNCF Cloud Native Interactive Landscape</a>
 - <a href="http://www.enterpriseintegrationpatterns.com/patterns/conversation/">Conversation Patterns</a>
+- <a href="https://www.tutorialspoint.com/design_pattern/">Design Patterns in Java</a>
 - <a href="https://dzone.com/refcardz">DZone Refcardz</a>
 - <a href="https://www.oreilly.com/data/free/">Free Data Books</a>
 - <a href="https://www.oreilly.com/webops/free/">Free Web Ops & DevOps Ebooks</a>
