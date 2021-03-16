@@ -70,12 +70,18 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - Gestão de projetos
 
 ## Refererências
+- <a href="Apache Kafka and Stream Processing O’Reilly Book Bundle">Apache Kafka and Stream Processing O’Reilly Book Bundle</a>
+- <a href="https://microservices.io/platform/microservice-architecture-assessment.html">Applying the microservice architecture pattern language</a>
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
-- <a href="http://www.bigdatapatterns.org">Big Data Patterns</a>
-- <a href="http://www.cloudcomputingpatterns.org">Cloud Computing Patterns</a>
+- <a href="https://patterns.arcitura.com/big-data-patterns">Big Data Patterns</a>
+- <a href="https://patterns.arcitura.com/cloud-computing-patterns">Cloud Computing Patterns</a>
 - <a href="http://www.cloudpatterns.org">Cloud Patterns</a>
 - <a href="http://www.enterpriseintegrationpatterns.com/patterns/conversation/">Conversation Patterns</a>
+- <a href="https://dzone.com/refcardz">DZone Refcardz</a>
+- <a href="https://www.oreilly.com/data/free/">Free Data Books</a>
+- <a href="https://www.oreilly.com/webops/free/">Free Web Ops & DevOps Ebooks</a>
 - <a href="http://www.enterpriseintegrationpatterns.com/patterns/messaging/">Messaging Patterns</a>
+- <a href="https://microservices.io/platform/microservice-architecture-assessment.html">The Microservice Architecture Assessment</a>
 - <a href="http://www.serviceorientation.com">Service Orientation</a>
 - <a href="http://www.soapatterns.org">SOA Patterns</a>
 - <a href="https://www.sourcemaking.com">Source Making</a>
