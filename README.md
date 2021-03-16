@@ -83,7 +83,15 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - <a href="https://patterns.arcitura.com/service-api-patterns">Service API Patterns</a>
 - <a href="https://patterns.arcitura.com/soa-patterns">SOA Patterns</a>
 
-## Refererências
+## Azure
+- <a href="https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/">Architecture styles</a>
+- <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/?toc=/azure/architecture/guide/toc.json">Cloud Design Patterns</a>
+- <a href="https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-platform">How Reliable Actors use the Service Fabric platform</a>
+- <a href="https://docs.microsoft.com/en-us/azure/architecture/framework/">Microsoft Azure Well-Architected Framework</a>
+- <a href="https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/">Ten design principles for Azure applications</a>
+- <a href="https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design">Web API design</a>
+
+## Outras Refererências
 - <a href="Apache Kafka and Stream Processing O’Reilly Book Bundle">Apache Kafka and Stream Processing O’Reilly Book Bundle</a>
 - <a href="https://microservices.io/platform/microservice-architecture-assessment.html">Applying the microservice architecture pattern language</a>
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
