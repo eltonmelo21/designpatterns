@@ -69,13 +69,25 @@ Repositório de padrões de projeto para computação em nuvem, <i>big data</i>,
 - Desenvolvimento
 - Gestão de projetos
 
+## Arcitura
+- <a href="https://patterns.arcitura.com>Arciture Education Patterns</a>
+- <a href="https://patterns.arcitura.com/artificial-intelligence-ai-patterns-neurons-and-neural-networks>Artificial Intelligence Patterns</a>
+- <a href="https://patterns.arcitura.com/big-data-patterns">Big Data Patterns</a>
+- <a href="https://patterns.arcitura.com/blockchain-patterns">>Blockchain Patterns</a>
+- <a href="https://patterns.arcitura.com/cloud-computing-patterns>Cloud Computing Patterns</a>
+- <a href="https://patterns.arcitura.com/containerization-patterns">Containerization Patterns</a>
+- <a href="https://patterns.arcitura.com/devops-metrics-mechanisms-tools">DevOps Mechanisms</a>
+- <a href="https://patterns.arcitura.com/internet-of-things-iot-patterns">Internet of Things Patterns</a>
+- <a href="https://patterns.arcitura.com/machine-learning-patterns">Machine Learning Patterns</a>
+- <a href="https://patterns.arcitura.com/microservice-patterns">Microservice Patterns</a>
+- <a href="https://patterns.arcitura.com/service-api-patterns">Service API Patterns</a>
+- <a href="https://patterns.arcitura.com/soa-patterns">SOA Patterns</a>
+
 ## Refererências
 - <a href="Apache Kafka and Stream Processing O’Reilly Book Bundle">Apache Kafka and Stream Processing O’Reilly Book Bundle</a>
 - <a href="https://microservices.io/platform/microservice-architecture-assessment.html">Applying the microservice architecture pattern language</a>
 - <a href="https://docs.microsoft.com/en-us/azure/architecture/">Azure Architecture</a>
-- <a href="https://patterns.arcitura.com/big-data-patterns">Big Data Patterns</a>
-- <a href="https://patterns.arcitura.com/cloud-computing-patterns">Cloud Computing Patterns</a>
-- <a href="http://www.cloudpatterns.org">Cloud Patterns</a>
+- <a href="https://www.cloudcomputingpatterns.org">Cloud Computing Patterns</a>
 - <a href="http://www.enterpriseintegrationpatterns.com/patterns/conversation/">Conversation Patterns</a>
 - <a href="https://dzone.com/refcardz">DZone Refcardz</a>
 - <a href="https://www.oreilly.com/data/free/">Free Data Books</a>
